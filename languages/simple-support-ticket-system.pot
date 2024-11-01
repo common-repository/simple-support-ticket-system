@@ -1,0 +1,391 @@
+# Copyright (C) 2016 Support Ticket System
+# This file is distributed under the same license as the Support Ticket System package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Support Ticket System 1.3.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-support-"
+"ticket-system\n"
+"POT-Creation-Date: 2016-10-16 11:23:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/add-user.php:17
+msgid "Input errors. Please fill in all fields correctly."
+msgstr ""
+
+#: includes/admin/add-user.php:19 includes/admin/add-user.php:51
+#: includes/admin/general-save.php:37 includes/mail.php:13
+#: includes/mail.php:69 includes/mail.php:76
+msgid "Back"
+msgstr ""
+
+#: includes/admin/add-user.php:33
+msgid "User %s was created successfully"
+msgstr ""
+
+#: includes/admin/add-user.php:38
+msgid "Failed to save the user"
+msgstr ""
+
+#: includes/admin/add-user.php:47
+msgid "Username already exists"
+msgstr ""
+
+#: includes/admin/general-save.php:35 includes/mail.php:11
+msgid "Let JavaScript do what it is supposed to do!"
+msgstr ""
+
+#: includes/admin/options-general.php:16 simple-support-ticket-system.php:116
+msgid "General Options"
+msgstr ""
+
+#: includes/admin/options-general.php:21
+msgid "User Guide"
+msgstr ""
+
+#: includes/admin/options-general.php:22
+msgid ""
+"First of all you have to create two new Pages or Posts. One for the ticket "
+"submition and one for the system to manage the tickets.\n"
+"\t\t\t\tNow, give them the titles you want and set the following content:"
+msgstr ""
+
+#: includes/admin/options-general.php:25
+msgid "on the page for the ticket submition"
+msgstr ""
+
+#: includes/admin/options-general.php:26
+msgid "on the page for the ticket system"
+msgstr ""
+
+#: includes/admin/options-general.php:27
+msgid ""
+"That's all! To manage tickets you have to be logged in into Wordpress or "
+"with accounts you can create under 'Support System -> Users'"
+msgstr ""
+
+#: includes/admin/options-general.php:28
+msgid "Hover over buttons to get a short description of their function."
+msgstr ""
+
+#: includes/admin/options-general.php:29
+msgid ""
+"If there are other things unclear, feel free to ask me in the support "
+"section :)"
+msgstr ""
+
+#: includes/admin/options-general.php:32
+msgid "Field Names"
+msgstr ""
+
+#: includes/admin/options-general.php:36
+msgid "Title Problem Field:"
+msgstr ""
+
+#: includes/admin/options-general.php:44
+msgid "Title Optional Field 1:"
+msgstr ""
+
+#: includes/admin/options-general.php:52
+msgid "Title Optional Field 2:"
+msgstr ""
+
+#: includes/admin/options-general.php:60
+msgid "Title Optional Field 3:"
+msgstr ""
+
+#: includes/admin/options-general.php:68
+msgid "Title Datepicker Field:"
+msgstr ""
+
+#: includes/admin/options-general.php:75
+msgid "An empty Title will hide this Field in the Submit-Form"
+msgstr ""
+
+#: includes/admin/options-general.php:78
+msgid "E-Mail Notification"
+msgstr ""
+
+#: includes/admin/options-general.php:79
+msgid ""
+"This function only works, if your server has a correct mail configuration"
+msgstr ""
+
+#: includes/admin/options-general.php:86
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/options-general.php:90
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin/options-general.php:94
+msgid "Test Server *"
+msgstr ""
+
+#: includes/admin/options-general.php:95
+msgid ""
+"* Check your server by sending a Test-Mail to your mail address of this "
+"wordpress account"
+msgstr ""
+
+#: includes/admin/options-general.php:102
+msgid "Content of mail when ticket was taken:"
+msgstr ""
+
+#: includes/admin/options-general.php:106
+msgid "Content of mail when ticket is done:"
+msgstr ""
+
+#: includes/admin/options-general.php:110
+msgid "Content of mail after a new answer:"
+msgstr ""
+
+#: includes/admin/options-general.php:118
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin/options-user.php:7 simple-support-ticket-system.php:114
+msgid "User Administration"
+msgstr ""
+
+#: includes/admin/options-user.php:12
+msgid "Your username (no umlauts):"
+msgstr ""
+
+#: includes/admin/options-user.php:15
+msgid "Your password:"
+msgstr ""
+
+#: includes/admin/options-user.php:18
+msgid "Repeat password:"
+msgstr ""
+
+#: includes/admin/options-user.php:21 includes/form.php:37
+msgid "E-Mail:"
+msgstr ""
+
+#: includes/admin/options-user.php:25
+msgid "Mr"
+msgstr ""
+
+#: includes/admin/options-user.php:26
+msgid "Mrs"
+msgstr ""
+
+#: includes/admin/options-user.php:28
+msgid "Last name:"
+msgstr ""
+
+#: includes/admin/options-user.php:31
+msgid "Admin:"
+msgstr ""
+
+#: includes/admin/options-user.php:34
+msgid "Add user"
+msgstr ""
+
+#: includes/admin/options-user.php:47
+msgid "Delete"
+msgstr ""
+
+#: includes/ajax.php:156 includes/ajax.php:208 includes/system.php:155
+#: includes/system.php:199
+msgid "Note"
+msgstr ""
+
+#: includes/ajax.php:162 includes/ajax.php:205 includes/system.php:52
+#: includes/system.php:161 includes/system.php:198
+msgid "Solution"
+msgstr ""
+
+#: includes/ajax.php:181 includes/show-ticket.php:113 includes/system.php:179
+msgid "says"
+msgstr ""
+
+#: includes/ajax.php:206 includes/show-ticket.php:133 includes/system.php:200
+msgid "Answer"
+msgstr ""
+
+#: includes/ajax.php:209 includes/show-ticket.php:134 includes/system.php:54
+#: includes/system.php:201
+msgid "Problem"
+msgstr ""
+
+#: includes/ajax.php:210 includes/system.php:55 includes/system.php:202
+msgid "Appointment"
+msgstr ""
+
+#: includes/ajax.php:212 includes/system.php:49 includes/system.php:204
+msgid "Issuer"
+msgstr ""
+
+#: includes/ajax.php:219 includes/system.php:211
+msgid "Insert"
+msgstr ""
+
+#: includes/ajax.php:231 includes/system.php:217
+msgid "Finish this ticket"
+msgstr ""
+
+#: includes/ajax.php:238
+msgid "Take this ticket"
+msgstr ""
+
+#: includes/ajax.php:245
+msgid "Adopt this ticket"
+msgstr ""
+
+#: includes/ajax.php:252
+msgid "Get this ticket back"
+msgstr ""
+
+#: includes/ajax.php:271
+msgid "done by"
+msgstr ""
+
+#: includes/ajax.php:281
+msgid "under examination by"
+msgstr ""
+
+#: includes/ajax.php:290 includes/system.php:234
+msgid "overdue"
+msgstr ""
+
+#: includes/ajax.php:299 includes/system.php:226
+msgid "today"
+msgstr ""
+
+#: includes/ajax.php:313 includes/system.php:247
+msgid "TOMORROW"
+msgstr ""
+
+#: includes/ajax.php:315 includes/system.php:249
+msgid "Appointment in %s days"
+msgstr ""
+
+#: includes/create-link.php:20
+msgid "Pleae store this link, you can consult your ticket there: "
+msgstr ""
+
+#: includes/form.php:35
+msgid "Name:"
+msgstr ""
+
+#: includes/form.php:53
+msgid "Title:"
+msgstr ""
+
+#: includes/form.php:73
+msgid "Status information by E-Mail"
+msgstr ""
+
+#: includes/form.php:76 includes/show-ticket.php:140
+msgid "Submit"
+msgstr ""
+
+#: includes/login.php:29
+msgid "Username and/or password were incorrect."
+msgstr ""
+
+#: includes/mail.php:66
+msgid "Your problem has been successfully submitted."
+msgstr ""
+
+#: includes/mail.php:74
+msgid "Unfortunately, something went wrong, please contact the administrator."
+msgstr ""
+
+#: includes/system.php:17
+msgid "Please wait, you are already logged in."
+msgstr ""
+
+#: includes/system.php:23
+msgid "Username"
+msgstr ""
+
+#: includes/system.php:25
+msgid "Password"
+msgstr ""
+
+#: includes/system.php:39
+msgid "New Tickets"
+msgstr ""
+
+#: includes/system.php:40
+msgid "My Tickets"
+msgstr ""
+
+#: includes/system.php:41
+msgid "Open Tickets"
+msgstr ""
+
+#: includes/system.php:42
+msgid "Filter"
+msgstr ""
+
+#: includes/system.php:43
+msgid "Logout"
+msgstr ""
+
+#: includes/system.php:50
+msgid "E-Mail"
+msgstr ""
+
+#: includes/system.php:51
+msgid "Done"
+msgstr ""
+
+#: includes/system.php:53
+msgid "Name"
+msgstr ""
+
+#: includes/system.php:57
+msgid "contains"
+msgstr ""
+
+#: includes/system.php:59
+msgid "Newest first"
+msgstr ""
+
+#: includes/system.php:60
+msgid "Oldest first"
+msgstr ""
+
+#: includes/system.php:62
+msgid "Apply filter"
+msgstr ""
+
+#: simple-support-ticket-system.php:115
+msgid "Users"
+msgstr ""
+
+#: simple-support-ticket-system.php:117
+msgid "General"
+msgstr ""
+
+#: simple-support-ticket-system.php:145 simple-support-ticket-system.php:153
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Support Ticket System"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://en00x.github.io/Simple-Ticket-System-WordPress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple and fast ticket system to receive and store Problems of Customers or "
+"Visitors, with a great search function."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tim Dahlmanns"
+msgstr ""
